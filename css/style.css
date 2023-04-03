@@ -1,0 +1,333 @@
+
+								/*მთავარი*/
+
+.header-1{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 15px;
+
+}
+
+.banner1{
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+.nav-all{
+	display: inline-block;
+	font-family:  'BPG Nino Mtavruli', sans-serif;
+	font-size: 22px;
+	vertical-align: middle;
+	margin-left: 15px;
+
+}
+
+
+.nav {
+	display: inline-block;
+
+}
+
+ nav ul li
+	 {
+		list-style-type: none;
+		
+		}
+li{
+	display: inline-block;
+	margin-right: 20px;
+
+
+}
+
+.active {
+	color: #EE4036;
+	text-decoration: none;
+
+}
+
+
+.blue-nav{
+	color: #3D58A6;
+	text-decoration: none;
+}
+
+
+.fb-footer{
+	width:14px;
+	height:30px;
+	left:110px;
+	top:686px;
+	
+	
+
+}
+
+.m-27{
+	background: #3D58A6;
+	width: 56px;
+	height: 56px;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	font-size: 37px;
+	color: #FFFFFF;
+	font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+}
+
+
+.YT-footer{
+	width:25px;
+	height:30px;
+	left:110px;
+	top:686px;
+	
+	
+}
+
+.line-1{
+	width: 1px;
+	height: 27.7px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-color: #363e97;
+	border-width: 1px;
+	border-style: solid;
+	background: #363E97
+	
+
+}
+
+.main-footer{
+	margin-top: 50px;
+	margin-left: 15px;
+
+}
+
+.p-2 {
+
+
+	display: inline-block;
+	font-family: "bpgingiriarial";
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 19.200000762939453px;
+	font-style: normal;
+	text-align: left;
+	color: #000000;
+	width: 1006px;
+
+}
+
+
+.border-index{
+	border-style: initial;
+	width: 570px;
+	height: 225px;
+	background-color: #E6E6E6;
+	display: inline-block;
+	margin-left: 15px;
+	color: #58595B;
+	margin-left: 15px;
+
+}
+.border-index-2{
+	border-style: initial;
+	width: 570px;
+	height: 225px;
+	background-color: #E6E6E6;
+	display: inline-block;
+	color: #58595B;
+	margin-left:20px;
+	vertical-align: bottom;
+
+}
+
+.border-header{
+	color: #3D58A6;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 26.400001525878906px;
+	font-style: normal;
+	text-align: right;
+	text-align: start;
+	color: #3d58a6;
+	margin-left: 15px;
+}
+
+}
+
+.border-index-p{
+	font-family: "roboto-regular";
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+	font-style: normal;
+	text-align: left;
+	display: inline-block;
+	color: #58595b;
+	width: 350px;
+}
+
+.border-index-p-2{
+	font-family: "roboto-regular";
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+	font-style: normal;
+	text-align: left;
+	display: inline-block;
+	color: #58595b;
+	width: 350px;
+	padding-left: 20px;
+	vertical-align: top;
+	padding-bottom: 60px;
+}
+
+.featured-photo{
+	
+	font-family: "roboto-regular";
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 28.80000114440918px;
+	font-style: normal;
+	text-align: left;
+	color: #000000;
+	margin-left: 15px;
+	margin-top: 130px;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+							/*სიახლეები*/
+
+.text-1p {
+	width: 677px;
+	height: 21px;
+	font-family: "bpgninomtavruli";
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24px;
+	font-style: normal;
+	text-align: left;
+	color: #000000;
+	margin-bottom: 10px
+}
+
+.maisi {
+
+
+	width: 57px;
+	height: 17px;
+	font-family: 'BPG Nino Mtavruli', sans-serif;
+	font-size: 22px;
+	font-weight: 400;
+	font-style: normal;
+	text-align: left;
+	color: #3d58a6;
+	
+
+	}
+
+.photo-text{
+	margin-bottom: 155px;
+	margin-right:  15px;
+
+}
+
+.finger-img{
+	width: 100px;
+	height: 130.5px;
+	display: inline-block;
+
+}
+
+.mobile-img{
+	width: 100px;
+	height: 130.5px;
+	display: inline-block;
+
+}
+
+
+							/*კონტაქტი*/
+
+
+.section-all{
+	display: inline-block;
+	width: 1900px;
+	background: #707070
+	border-style: initial;
+    background-color: #E6E6E6;
+   
+    width: 100%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+     
+  
+}
+
+.section-contact{
+	
+	display: inline-block;
+	padding-top: 150px;
+	margin-left: 50px;
+	margin-top: 50px;
+	padding-bottom: 50px;
+	
+
+}
+
+.contanct-info{
+	
+	color:#3D58A6;
+	font-size: 20px;
+}
+
+.c-1{
+	
+	color:#808080;
+	font-size: 16px;
+	font-family: BPGIngiriArial;
+}
+
+.c-2{
+	
+	color:#808080;
+	font-family: BPGIngiriArial;
+
+}
+
+.c-3{
+
+	color:#808080;
+	font-family: BPGIngiriArial;
+
+}
+
+
+.footer-end{
+
+	padding-top:70px;
+
+}
+
+.gmap_canvas{
+
+	display: inline-block;
+	padding-top: 200px;
+	padding-left: 200px;
+
+}
+
+.mapouter{
+
+	display: inline-block;
+	
+}
+
