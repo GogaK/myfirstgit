@@ -1,205 +1,100 @@
+/* start header styling */
 
-								/*მთავარი*/
+header {
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 80px;
+}
 
-.header-1{
+.logo {
+	display: inline-block;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+
+nav {
 	display: inline-block;
 	vertical-align: middle;
-	margin-left: 15px;
 
 }
 
-.banner1{
-	margin-top: 20px;
-	margin-left: 15px;
-}
-
-.nav-all{
+li {
 	display: inline-block;
-	font-family:  'BPG Nino Mtavruli', sans-serif;
+	margin-right: 14px;
+	vertical-align: middle;
+
+}
+
+a {
+	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 22px;
-	vertical-align: middle;
-	margin-left: 15px;
-
-}
-
-
-.nav {
-	display: inline-block;
-
-}
-
- nav ul li
-	 {
-		list-style-type: none;
-		
-		}
-li{
-	display: inline-block;
-	margin-right: 20px;
-
-
+	font-weight: 700;
+	color: #3d58a6;
 }
 
 .active {
-	color: #EE4036;
-	text-decoration: none;
+	color: #ee4036;
+}
 
+/* start section 1 */
+.s-1 {
+	margin-bottom: 124px;
+}
+.container {
+	width: 1170px;
+	margin: 0 auto;
+}
+
+/* start section 2 */
+.s-2 {
+	margin-bottom: 80px;
 }
 
 
-.blue-nav{
-	color: #3D58A6;
-	text-decoration: none;
-}
-
-
-.fb-footer{
-	width:14px;
-	height:30px;
-	left:110px;
-	top:686px;
-	
-	
-
-}
-
-.m-27{
-	background: #3D58A6;
-	width: 56px;
-	height: 56px;
-	display: flex;
-  	justify-content: center;
-  	align-items: center;
-	font-size: 37px;
-	color: #FFFFFF;
-	font-family: 'BPG Nino Mtavruli', sans-serif;
-}
-}
-
-
-.YT-footer{
-	width:25px;
-	height:30px;
-	left:110px;
-	top:686px;
-	
-	
-}
-
-.line-1{
-	width: 1px;
-	height: 27.7px;
-	margin-left: 20px;
-	margin-right: 20px;
-	border-color: #363e97;
-	border-width: 1px;
-	border-style: solid;
-	background: #363E97
-	
-
-}
-
-.main-footer{
-	margin-top: 50px;
-	margin-left: 15px;
-
-}
-
-.p-2 {
-
-
-	display: inline-block;
-	font-family: "bpgingiriarial";
-	font-size: 16px;
-	font-weight: 400;
-	line-height: 19.200000762939453px;
-	font-style: normal;
-	text-align: left;
-	color: #000000;
-	width: 1006px;
-
-}
-
-
-.border-index{
-	border-style: initial;
-	width: 570px;
-	height: 225px;
-	background-color: #E6E6E6;
-	display: inline-block;
-	margin-left: 15px;
-	color: #58595B;
-	margin-left: 15px;
-
-}
-.border-index-2{
-	border-style: initial;
-	width: 570px;
-	height: 225px;
-	background-color: #E6E6E6;
-	display: inline-block;
-	color: #58595B;
-	margin-left:20px;
-	vertical-align: bottom;
-
-}
-
-.border-header{
-	color: #3D58A6;
-	font-size: 22px;
-	font-weight: 400;
-	line-height: 26.400001525878906px;
-	font-style: normal;
-	text-align: right;
-	text-align: start;
-	color: #3d58a6;
-	margin-left: 15px;
-}
-
-}
-
-.border-index-p{
-	font-family: "roboto-regular";
-	font-size: 20px;
-	font-weight: 400;
-	line-height: 24px;
-	font-style: normal;
-	text-align: left;
-	display: inline-block;
-	color: #58595b;
-	width: 350px;
-}
-
-.border-index-p-2{
-	font-family: "roboto-regular";
-	font-size: 20px;
-	font-weight: 400;
-	line-height: 24px;
-	font-style: normal;
-	text-align: left;
-	display: inline-block;
-	color: #58595b;
-	width: 350px;
-	padding-left: 20px;
-	vertical-align: top;
-	padding-bottom: 60px;
-}
-
-.featured-photo{
-	
-	font-family: "roboto-regular";
+h2 {
+	margin-bottom: 32px;
+	font-family: 'Roboto', sans-serif;
 	font-size: 24px;
-	font-weight: 400;
-	line-height: 28.80000114440918px;
-	font-style: normal;
-	text-align: left;
-	color: #000000;
-	margin-left: 15px;
-	margin-top: 130px;
-	margin-bottom: 30px;
+	
+}
+
+.card {
+	width: 570px;
+	height: 225px;
+	background-color: lightgray;
+	padding: 18px 20px;
+	display: inline-block;
+}
+
+h4 {
+	margin-bottom: 18px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	color: #3d58a6;
+
+}
+
+img {
+	display: inline-block;
+	margin-right: 60px;
+	vertical-align: middle;
+
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	color: #333333;
+	display: inline-block;
+	width: 356px;
+	vertical-align: middle;
+	line-height: 24px;
 }
 
 
+.card-left {
+	margin-right: 26px;
+}
 
 
 
@@ -290,44 +185,4 @@ li{
 }
 
 .c-1{
-	
-	color:#808080;
-	font-size: 16px;
-	font-family: BPGIngiriArial;
-}
-
-.c-2{
-	
-	color:#808080;
-	font-family: BPGIngiriArial;
-
-}
-
-.c-3{
-
-	color:#808080;
-	font-family: BPGIngiriArial;
-
-}
-
-
-.footer-end{
-
-	padding-top:70px;
-
-}
-
-.gmap_canvas{
-
-	display: inline-block;
-	padding-top: 200px;
-	padding-left: 200px;
-
-}
-
-.mapouter{
-
-	display: inline-block;
-	
-}
 

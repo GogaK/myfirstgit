@@ -1,2 +1,2 @@
-# myfirstgit
-lecture 4 first git
+# lecture4-mar
+lecture 4 for mar group
